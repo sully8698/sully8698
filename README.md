@@ -1,6 +1,5 @@
 
-Heyo! I'm Sean O'Sullivan 👋
-![](https://komarev.com/ghpvc/?username=sully8698&color=brightgreen&style=plastic)
+# Heyo! I'm Sean O'Sullivan 👋 ![](https://komarev.com/ghpvc/?username=sully8698&color=brightgreen&style=plastic)
 ![](screenShot3.jpg)
 
 ## 🙋‍♂️ Social
@@ -18,7 +17,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+# 🖥️ My Tech Stack Skill Set
+## Frontend
+## Backend
 -->
+
+# ➕ Extras
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sully8698&show_icons=true&theme=transparent)
 ![Codewars](https://github.r2v.ch/codewars?user=sully8698&stroke=%23BB432C)
+
+
