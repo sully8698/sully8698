@@ -3,7 +3,7 @@
 ![](screenShot3.jpg)
 
 ### 🙋‍♂️ Social
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-o-sullivan-27a607136)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-osullivan8)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spo8698@gmail.com)&nbsp;
 
 <!--
