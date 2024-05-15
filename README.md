@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sully8698&show_icons=true&theme=transparent)
 ![Codewars](https://github.r2v.ch/codewars?user=sully8698&stroke=%23BB432C)
 
-### Favorite Coding Quote
+### Favorite Coding Quotes
 ![](quote.jpg)
-
+![](quote2.png)
